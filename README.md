@@ -4,3 +4,4 @@
 
 ## By Megz(MEGHA)
 ## License : by megz
+LICENSE
